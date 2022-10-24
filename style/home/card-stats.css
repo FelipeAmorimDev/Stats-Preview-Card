@@ -70,7 +70,9 @@
 
 @media (max-width:550px) {
 
+
   .card-stats {
+    margin-top: 0px;
     text-align: center;
   }
 

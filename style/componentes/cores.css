@@ -1,0 +1,39 @@
+/* 
+- Very dark blue (main background): hsl(233, 47%, 7%)
+- Dark desaturated blue (card background): hsl(244, 38%, 16%)
+- Soft violet (accent): hsl(277, 64%, 61%) */
+
+:root{
+  --cor-p1:hsl(233, 47%, 7%);
+  --cor-p2:hsl(244, 38%, 16%);
+  --cor-p3:hsl(277, 64%, 61%);
+  --cor-p4:hsl(278, 42%, 33%);
+
+  --cor-0:hsl(0, 0%, 100%);
+  --cor-1:hsla(0, 0%, 100%, 0.75);
+  --cor-2:hsla(0, 0%, 100%, 0.6);
+}
+
+.cor-p1{
+  color: var(--cor-p1);
+}
+
+.cor-p2{
+  color: var(--cor-p2);
+}
+
+.cor-p3{
+  color: var(--cor-p3);
+}
+
+.cor-0{
+  color: var(--cor-0);
+}
+
+.cor-1{
+  color: var(--cor-1);
+}
+
+.cor-2{
+  color: var(--cor-2);
+}

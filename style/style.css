@@ -1,0 +1,10 @@
+/* Components */
+@import url("./componentes/tipografias.css");
+@import url("./componentes/cores.css");
+
+/* General Configs */
+@import url("./gerais/geral.css");
+
+/* Home Page Configs */
+@import url("./home/card-stats.css");
+

@@ -1,0 +1,43 @@
+/* font-family: 'Inter', sans-serif;
+font-family: 'Lexend Deca', sans-serif; */
+
+.font-1-xxl{
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 2.3rem;
+  line-height: 1.5;
+}
+
+.font-1-x{
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+.font-1-s{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: .9rem;
+  line-height: 1.65;
+}
+
+.font-2-s{
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+  font-size: .9rem;
+  line-height: 1.65;
+}
+
+.font-2-s-r{
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+  font-size: .9rem;
+  letter-spacing: 1.3px;
+}
+
+@media (max-width:450px){
+  .font-1-xxl{
+    font-size: 1.9rem;
+  }
+}

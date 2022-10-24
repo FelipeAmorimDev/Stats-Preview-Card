@@ -1,0 +1,30 @@
+body{
+  margin: 20px;
+  background-color: var(--cor-p1);
+  color:var(--cor-0)
+  
+
+}
+
+h1,h2,ul,li,p{
+  margin: 0px;
+  padding: 0px;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+}
+
+ul{
+  list-style: none;
+}
+
+.m1{
+  margin-bottom: 26px;
+}
+
+.m2{
+  margin-bottom: 66px;
+}
+
